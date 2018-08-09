@@ -1,9 +1,5 @@
-# ColumbiaWebDevTerms
++++
 
-21JUL2018 1328EDT Put terms here...
+React.js Bucket
 
-Terminal
-
-HTML
-
-CSS
+React.js may be defined as a "declarative, efficient, and flexible JavaScript library for building user interfaces... It lets you compose complex user interfaces (UIs) from small and isolated pieces of code called components." (https://reactjs.org/tutorial/tutorial.html#what-are-we-building) 
